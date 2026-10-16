@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Food Delivery App</string>
+    <!-- Sign In -->
+    <string name="sign_in_title">Connectez-vous à votre compte</string>
+    <string name="welcome_back">Ravis de vous revoir, saisissez vos coordonnées pour continuer votre commande</string>
+    <string name="email_address">Adresse mail</string>
+    <string name="email_hint">Entrez votre email</string>
+    <string name="remember_me">Se souvenir de moi</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="sign_in_with_google">Connexion avec Google</string>
+    <string name="sign_in_with_google_button">Se connecter avec Google</string>
+    <string name="sign_in_button">Se connecter</string>
+    <string name="create_account">Créer un compte</string>
+
+    <!-- Sign Up -->
+    <string name="create_account_title">Créer un compte</string>
+    <string name="welcome_message">Bienvenue, saisissez vos coordonnées pour commencer à commander</string>
+    <string name="full_name">Nom complet</string>
+    <string name="name_hint">Entrez votre nom</string>
+    <string name="password">Mot de passe</string>
+    <string name="password_hint">Entrez votre mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="confirm_password_hint">Confirmez votre mot de passe</string>
+    <string name="sign_up_with_google">Connexion avec Google</string>
+    <string name="sign_up_with_google_button">S\'inscrire avec Google</string>
+    <string name="create_account_button">Créer un compte</string>
+    <string name="already_have_account">Se connecter à mon compte</string>
+
+    <string name="default_web_client_id">TON_CLIENT_ID_FIREBASE.apps.googleusercontent.com</string>
+</resources>
